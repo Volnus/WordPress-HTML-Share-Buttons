@@ -16,6 +16,24 @@
         <a rel="nofollow" href="http://reddit.com/submit?url=<?php the_permalink(); ?>" target="_blank" class="share-btn reddit">
         <i class="fa fa-reddit"></i></a>
         
+        <a rel="nofollow" href="http://service.weibo.com/share/share.php?url=<?php the_permalink(); ?>&title=<?php the_title(); ?>" target="_blank" class="share-btn weibo">
+        <i class="fa fa-weibo"></i></a>
+
+        <a rel="nofollow" href="http://vkontakte.ru/share.php?url=<?php the_permalink(); ?>" target="_blank" class="share-btn vk">
+        <i class="fa fa-vk"></i></a>
+
+        <a rel="nofollow" href="http://www.tumblr.com/share/link?url=<?php the_permalink(); ?>&amp;title=<?php the_title(); ?>" target="_blank" class="share-btn tumblr">
+        <i class="fa fa-tumblr"></i></a>
+        
+        <a rel="nofollow" href="http://www.digg.com/submit?url=<?php the_permalink(); ?>" target="_blank" class="share-btn digg">
+        <i class="fa fa-digg"></i></a>
+
+        <a ref="nofollow" href="https://bufferapp.com/add?url=?php the_permalink(); ?>" target="_blank" class="share-btn buffer">
+        <i class="fa fa-share-alt"></i></a>
+
+        <a rel="nofollow" href="javascript:;" onclick="window.print()" target="_blank" class="share-btn print">
+        <i class="fa fa-print"></i> </a>
+
         <a rel="nofollow" href="mailto:?subject=HMTL%20Share%20Buttons&body=<?php the_permalink(); ?>" target="_blank" class="share-btn email">
         <i class="fa fa-envelope"></i> </a>
         
