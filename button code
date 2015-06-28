@@ -1,23 +1,23 @@
-        <a href="http://www.facebook.com/sharer/sharer.php?u=<?php the_permalink(); ?>" target="_blank" class="share-btn facebook">
+        <a rel="nofollow" href="http://www.facebook.com/sharer/sharer.php?u=<?php the_permalink(); ?>" target="_blank" class="share-btn facebook">
         <i class="fa fa-facebook"></i></a>
 
-        <a href="http://twitter.com/share?url=<?php the_permalink(); ?>" target="_blank" class="share-btn twitter">
+        <a rel="nofollow" href="http://twitter.com/share?url=<?php the_permalink(); ?>" target="_blank" class="share-btn twitter">
         <i class="fa fa-twitter"></i></a>
 
-        <a href="https://plus.google.com/share?url=<?php the_permalink(); ?>" target="_blank" class="share-btn google-plus">
+        <a rel="nofollow" href="https://plus.google.com/share?url=<?php the_permalink(); ?>" target="_blank" class="share-btn google-plus">
         <i class="fa fa-google-plus"></i></a>
 
-        <a href="http://www.linkedin.com/shareArticle?url=<?php the_permalink(); ?>" target="_blank" class="share-btn linkedin">
+        <a rel="nofollow" href="http://www.linkedin.com/shareArticle?url=<?php the_permalink(); ?>" target="_blank" class="share-btn linkedin">
         <i class="fa fa-linkedin"></i></a>
 
-        <a href="http://www.stumbleupon.com/submit?url=<?php the_permalink(); ?>" target="_blank" class="share-btn stumbleupon">
+        <a rel="nofollow" href="http://www.stumbleupon.com/submit?url=<?php the_permalink(); ?>" target="_blank" class="share-btn stumbleupon">
         <i class="fa fa-stumbleupon"></i></a>
         
-        <a href="http://reddit.com/submit?url=<?php the_permalink(); ?>" target="_blank" class="share-btn reddit">
+        <a rel="nofollow" href="http://reddit.com/submit?url=<?php the_permalink(); ?>" target="_blank" class="share-btn reddit">
         <i class="fa fa-reddit"></i></a>
         
-        <a href="mailto:?subject=HMTL%20Share%20Buttons&body=<?php the_permalink(); ?>" target="_blank" class="share-btn email">
+        <a rel="nofollow" href="mailto:?subject=HMTL%20Share%20Buttons&body=<?php the_permalink(); ?>" target="_blank" class="share-btn email">
         <i class="fa fa-envelope"></i> </a>
         
-        <a href="https://www.addthis.com/bookmark.php?source=bx32nj-1.0&v=300&url=<?php the_permalink(); ?>" target="_blank" class="share-btn addthis">
+        <a rel="nofollow" href="https://www.addthis.com/bookmark.php?source=bx32nj-1.0&v=300&url=<?php the_permalink(); ?>" target="_blank" class="share-btn addthis">
         <i class="fa fa-plus-square"></i></a>
