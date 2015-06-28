@@ -1,4 +1,4 @@
-   .share-btn {
+.share-btn {
                 display: inline-block;
                 color: #ffffff;
                 border: none;
@@ -24,4 +24,10 @@
             .share-btn.reddit { background: #ff5700; }
             .share-btn.linkedin    { background: #4875B4; }
             .share-btn.email { background: #444444; }
+            .share-btn.print { background: #444444; }
             .share-btn.addthis { background: #f8694d; }
+            .share-btn.weibo { background: #cc0000; }
+            .share-btn.vk { background: #333; }
+            .share-btn.tumblr { background: #35465C; }
+            .share-btn.digg {background: #3F5998;}
+            .share-btn.buffer {background: #000;}
