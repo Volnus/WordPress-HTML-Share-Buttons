@@ -10,9 +10,6 @@
                 text-align: center;
                 margin: 10px 10px 0 0;
             }
-            .share-btn:hover {
-              color: #eeeeee;
-            }
             .share-btn:active {
               position: relative;
               top: 2px;
