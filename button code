@@ -28,7 +28,7 @@
         <a rel="nofollow" href="http://www.digg.com/submit?url=<?php the_permalink(); ?>" target="_blank" class="share-btn digg">
         <i class="fa fa-digg"></i></a>
 
-        <a ref="nofollow" href="https://bufferapp.com/add?url=?php the_permalink(); ?>" target="_blank" class="share-btn buffer">
+        <a ref="nofollow" href="https://bufferapp.com/add?url=<?php the_permalink(); ?>" target="_blank" class="share-btn buffer">
         <i class="fa fa-share-alt"></i></a>
 
         <a rel="nofollow" href="javascript:;" onclick="window.print()" target="_blank" class="share-btn print">
